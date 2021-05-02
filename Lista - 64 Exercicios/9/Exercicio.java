@@ -12,16 +12,16 @@ public class Exercicio {
         Scanner entrada = new Scanner(System.in);
 	int IdadeAnos /* not anus! */, IdadeMeses, IdadeDias, IdadeTotalDias;
 	
-	System.out.print("Calculadora de idade em dias\n\n"); //Existe algum exercício mais aleatório do que esse?!
+	System.out.print("Calculadora de idade em dias\n\n"); 
 
 
-	System.out.print("Digite os anos: ");
+	System.out.print("Digite os anos:19");
 	IdadeAnos = entrada.nextInt();
 	
-	System.out.print("Digite os meses: ");
+	System.out.print("Digite os meses:228");
 	IdadeMeses = entrada.nextInt();
 
-	System.out.print("Digite os dias: ");
+	System.out.print("Digite os dias:6935 ");
 	IdadeDias = entrada.nextInt();
 
 
